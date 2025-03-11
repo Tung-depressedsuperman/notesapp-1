@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "aws-amplify": "^6.13.4",
+    "notesapp": "file:",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
